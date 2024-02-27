@@ -62,5 +62,5 @@ int scandir(const char *restrict dirp,
 ```
 Ví dụ về `filter` được đặt tại [đây](./test.c)
 ### Source code
-Cuối cùng là lời giải của bài tập
-[Source code](./myscan.c)
+Cuối cùng là lời giải của bài tập: [Source code](./myscan.c)
+Lời giải của thầy Vinh: [Source code](./thayVinhscan.c)
